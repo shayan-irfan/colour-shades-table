@@ -1,0 +1,12 @@
+
+
+div.shadowbox1{
+height: 200px;
+width: 200px;
+background-color:#1685cf;
+padding: 40;
+ox-shadow: 5px 5px 0px 0px #0a93ee, 10px 10px 0px 0px #1a98ff, 15px 15px 0px 0px #0a97fc, 20px 20px 0px 0px #CAE6FF, 25px 25px 0px 0px #E1EEFF, 31px 23px 23px 50px rgba(57,246,255,0); 
+box-shadow: 5px 5px 0px 0px #289FED, 10px 10px 0px 0px #5FB8FF, 15px 15px 0px 0px #A1D8FF, 20px 20px 0px 0px #CAE6FF, 25px 25px 0px 0px #E1EEFF, 31px 23px 23px 50px rgba(57,246,255,0);
+}
+
+}
